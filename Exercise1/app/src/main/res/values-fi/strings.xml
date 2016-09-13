@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="hello_world_land">Hei vaakamallin maailma!</string>
+    <string name="hello_world">Hei maailma!</string>
+    <string name="another_string">Toiset stringit vaadittiin, joten toimitin.(toivottavasti pinkki väri käy)</string>
+</resources>
