@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maplaunchex</string>
+    <string name="instructions_txt">Give a location</string>
+    <string name="latitudereq">lat:</string>
+    <string name="longitudereq">lng:</string>
+    <string name="buttontxt">Show on map</string>
+</resources>
