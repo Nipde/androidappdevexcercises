@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">basicuiex2</string>
-    <string name="username_req">Username:</string>
-    <string name="password_req">Password:</string>
-    <string name="loginbutton">Login</string>
-    <string name="usernameplaceholder">Username</string>
-    <string name="passwordplaceholder">Password</string>
-</resources>

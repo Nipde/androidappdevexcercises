@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Exercise1</string>
-    <string name="hello_world_land">Hello landscape world!</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="another_string">Another string was demanded, so I delivered.</string>
-</resources>
